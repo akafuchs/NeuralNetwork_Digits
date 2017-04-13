@@ -1,2 +1,2 @@
 # NeuralNetwork_Digits
-Implementation of Neurol Network for Digit Classification
+Implementation of Neural Network for Digit Classification
